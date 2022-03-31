@@ -20,6 +20,6 @@ Slack bot to upload files to channel
 * The application requires slack SLACK_BOT_TOKEN & CHANNEL_ID in the .env file, so create the .env file on root
 * To get those credentials you'll need a slack account with a work space and you'll need to be the admin of that workspace
 * Create a bot from scratch, give the nessecery permissions, enable socket mode and install the bot to workspace
-* You'll then recive the bot token from "oath and permisions" tab when you install to workspace
-* You can find the channel if you select "open channel details" on right click of channel and its to the extreme end
+* You'll then recive the bot token from "Oath and Permisions" tab when you install to workspace
+* You can find the channel if you select "Open channel details" on right click of channel and its to the extreme end
 * Add the files you want to upload in root folder and mention the file names in fileArr
